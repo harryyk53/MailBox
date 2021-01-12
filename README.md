@@ -30,4 +30,4 @@ Caso tenha dúvida de como usar o bot ou como funcione me chame no discord Split
 
 
 # 🔐 Licença 
-A soruce desse bot pode ser livrimente utilizada contanto que não haja comercio encima desses códigos.
+A source desse bot pode ser livrimente utilizada contanto que não haja comercio encima desses códigos.
